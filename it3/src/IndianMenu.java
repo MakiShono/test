@@ -5,6 +5,10 @@
  *  @庄野
  *  @see Menu
  */
+
+//githubにup練習
+
+
 public class IndianMenu implements Menu {
 
 	private static final int MAX_ITEMS = 2;	//メニューの数
